@@ -28,7 +28,7 @@ After installing [Homebrew](https://brew.sh), execute the following commands:
 ```
 brew tap nextfire/tap
 brew install apple-music-discord-rpc
-brew services restart apple-music-discord-rpc
+brew services start apple-music-discord-rpc
 ```
 
 These commands
